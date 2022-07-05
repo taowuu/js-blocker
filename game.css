@@ -1,0 +1,18 @@
+#container {
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    /* display: block; */
+    text-align: center;
+}
+
+#id-canvas {
+    /* position: relative;
+    left: 40%;
+    top: 200px; */
+    border: 2px solid lightblue;
+}
+
+h1 {
+    text-align: center;
+    color: lightblue;
+}
